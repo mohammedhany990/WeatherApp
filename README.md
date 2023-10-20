@@ -1,6 +1,7 @@
 # weather_app
 
 A new Flutter project.
+![homeWithNoWeather](https://github.com/mohammedhany990/WeatherApp/assets/76411941/5b02e787-0657-4abf-9ce5-ecc1ddf1f8ee)
 
 ## Getting Started
 
